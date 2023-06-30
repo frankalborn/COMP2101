@@ -1,3 +1,3 @@
-# COMP2101 Administrative Sheel Scripting
+# COMP2101 Administrative Shell Scripting
 
 T Repo
